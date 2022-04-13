@@ -2,8 +2,8 @@
 name: "Eunhee Han"
 title: "Eunhee's Blog"
 description: "은희의 블로그에 오신걸 환영합니다"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/eunhee.png'
+favicon: 'assets/images/eunhee.png'
 url: eunhee-han.github.io
 baseurl: 
 google_analytics: 'UA-46278016-1'
@@ -15,13 +15,13 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    name: Eunhee Han
+    display_name: Eunhee Han
+    avatar: 'assets/images/eunhee.png'
     email: wowthemesnet@gmail.com
     web: https://eunhee-han.github.io
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    twitter: https://blog.naver.com/scn07077
+    description: "Hello, I'm Eunhee Han :)"
   john:
     name: John
     display_name: John    
