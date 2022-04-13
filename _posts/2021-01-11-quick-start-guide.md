@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test"
+title:  "나의 먹방 탐방기 1"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/eunhee.jpg
