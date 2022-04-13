@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test"
+title: Test
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/eunhee.jpg
