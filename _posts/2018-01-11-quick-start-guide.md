@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "나의 먹방 탐방기 1"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/eunhee.jpg
 featured: true
 hidden: true
 ---
+
+오늘 지코바를 먹었다. 참 행복했다.
 
 Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
 
